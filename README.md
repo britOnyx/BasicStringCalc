@@ -1,6 +1,8 @@
+In order to run you need to execute:
+Java -jar "StringCalculator.jar" in your CMD
+
 /*
  * ITERATION 1 OF A STRING CALCULATOR, IMPLEMENTS BASIC CALCULATIONS USING A STRING INPUT BY THE USER
  * WILL ALSO INPUT MULTIPLE OPERATORS 
  */
-In order to run you need to execute:
-Java -jar "StringCalculator.jar" in your CMD
+
